@@ -1,4 +1,4 @@
-#Comando utiles de Git
+# Comandos utiles de Git
 
 1. git init
 2. git add .

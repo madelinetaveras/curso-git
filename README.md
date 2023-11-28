@@ -12,3 +12,5 @@
 10. git merge rama-heroes
 11. git push
 12. git commit -am
+
+Aqui terminan los comandos
